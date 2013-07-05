@@ -27,9 +27,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/grugithub/gru.git</url>
-        <connection>scm:git:git@github.com:grugithub/gru.git</connection>
-        <developerConnection>scm:git:git@github.com:grugithub/gru.git</developerConnection>
+        <url>https://github.com/grugithub/gru-annotations.git</url>
+        <connection>scm:git:git@github.com:grugithub/gru-annotations.git</connection>
+        <developerConnection>scm:git:git@github.com:grugithub/gru-annotations.git</developerConnection>
     </scm>
 
     <repositories>
